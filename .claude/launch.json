@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "C:\\php8\\php.exe",
+      "runtimeArgs": ["-S", "localhost:5500", "-t", "."],
+      "port": 5500
+    }
+  ]
+}
